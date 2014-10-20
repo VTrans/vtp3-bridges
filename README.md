@@ -9,4 +9,4 @@ Progress:
 
 - Refine the service by changing the popup header and configuring the fields.
 - Share the MXD via GitHub
-- Create service
+- Create service [(url)](http://vtransmap01.aot.state.vt.us/arcgis/rest/services/vtp3/BridgeClosures/MapServer)
