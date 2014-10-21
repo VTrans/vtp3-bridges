@@ -23,3 +23,4 @@ Progress:
 8. Use drop-down arrow to change symbol, then click OPTIONS highlighted in blue to open symbol properties. 
 9. Use drop-down arrow within symbol properties to select type of points to choose from. 
 10. Used Transportation point type for Yellow Sign with Topo Bridge symbol.
+11. Changed Basemap map to OpenStreetMap
