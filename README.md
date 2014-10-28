@@ -24,3 +24,5 @@ Progress:
 9. Use drop-down arrow within symbol properties to select type of points to choose from. 
 10. Used Transportation point type for Yellow Sign with Topo Bridge symbol.
 11. Changed Basemap map to OpenStreetMap
+12. Added States/Provinces Boundary backgorund layer for popping VT look.
+13. Set filter on States/Provinces Boundary to ("postal" is not "VT") and Fill Transperency to 70%.
