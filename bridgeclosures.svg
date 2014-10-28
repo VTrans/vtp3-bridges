@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="bridgeclosures.svg"
-   inkscape:export-filename="C:\Users\stsmith\Documents\VTransGit\vtp3-bridges\VTP3_bridge-closures-map.png"
+   inkscape:export-filename="C:\Users\stsmith\Documents\VTransGit\vtp3-bridges\VTP3_bridge-closures-map-data.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -167,20 +167,20 @@
          id="tspan3263"
          x="-50.405273"
          y="20.5"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;fill-opacity:1;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'">Web Map</tspan></text>
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;fill-opacity:1;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'">Data</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3228"
        y="20.115284"
        x="-50.184017"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#339933;fill-opacity:1;stroke:none;font-family:Franklin Gothic Heavy;-inkscape-font-specification:Franklin Gothic Heavy"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9900;fill-opacity:1;stroke:none;font-family:Franklin Gothic Heavy;-inkscape-font-specification:Franklin Gothic Heavy"
        xml:space="preserve"
        transform="matrix(0,-1,1,0,0,0)"><tspan
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#339933;fill-opacity:1;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff9900;fill-opacity:1;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'"
          y="20.115284"
          x="-50.184017"
          id="tspan3230"
-         sodipodi:role="line">Web Map</tspan></text>
+         sodipodi:role="line">Data</tspan></text>
     <g
        id="g4278"
        transform="matrix(0.89284157,0,0,0.89284157,67.704093,150.79195)">
