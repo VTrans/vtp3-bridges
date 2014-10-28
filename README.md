@@ -1,4 +1,4 @@
-Bridge Closure Map
+[Bridge Closure Map](http://vtrans.maps.arcgis.com/apps/webappviewer/index.html?id=b0d86b0133504e5796357af446bef3ca)
 ============
 
 _User Story_
